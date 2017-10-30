@@ -55,6 +55,7 @@
   },
   "homepage": "https://github.com/frostney/react-intl-native#readme",
   "dependencies": {
+    "prop-types": "^15.6.0",
     "react-intl": "^2.1.2"
   },
   "devDependencies": {
